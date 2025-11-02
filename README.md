@@ -10,6 +10,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/PWA-Ready-blue" alt="PWA Ready">
   <img src="https://img.shields.io/badge/JavaScript-99.6%25-yellow" alt="JavaScript 99.6%">
+<a href="https://kartayati.netlify.app/">
+    <img src="https://img.shields.io/badge/Play-Online-brightgreen" alt="Play Online">
+  </a>
 </p>
 
 ---
@@ -77,7 +80,7 @@ The winner is the player with the **highest total points** at the end of the gam
 
 ## 🔗 Live Version
 
-You can play the game [here](https://kartayati.netlify.app/).
+**[Play Kartayati Online](https://kartayati.netlify.app/)**
 
 ---
 
