@@ -25,6 +25,7 @@
 - **External Libraries:**
     - [Fireworks-js](https://github.com/crashmax-dev/fireworks-js) – Author: crashmax, MIT License
     - [SweetAlert2](https://sweetalert2.github.io/) – MIT License
+    - [Next-PWA](https://npmjs.com/package/next-pwa) - MIT License
 - 💡 **Fonts:** No cookies are required due to the use of preinstalled Google Fonts — no cookie consent screen required.
 
 ---
