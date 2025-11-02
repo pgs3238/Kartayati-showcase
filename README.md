@@ -97,8 +97,8 @@ The winner is the player with the **highest total points** at the end of the gam
 - In Circles and Ellipses Mode the selected dots disappear after the creation of the circle or Ellipse. 
 - The Triangle Mode Screenshot shows a prerelease version, subject to changes. 
 
-| Circles Mode                                                                                   | Ellipses Mode                                                                                      | Triangles Mode (pre release Version)                                                                   |
-|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Circles Mode                                                                                   | Ellipses Mode                                                                                      | Triangles Mode (pre release)                                                                   |
+|------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | <img src="assets/circles01.png" alt="Circles01" width="250"> | <img src="assets/ellipses01.png" alt="Ellipses01" width="250"> | <img src="assets/triangles01.png" alt="Triangles01" width="250"> |
 
 
