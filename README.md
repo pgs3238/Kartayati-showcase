@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <em>A minimalistic yet strategic PWA game built in pure JavaScript.</em>
+  <em>A minimalistic yet strategic PWA game built with Next.js and pure JavaScript.</em>
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 
 ## ⚙️ Technical Details
 
+- **Framework:** Next.js (React-based)
 - **Languages:** JavaScript, CSS
 - **Progressive Web App:** Installable, optimized for mobile touch usage
 - **External Libraries:**
