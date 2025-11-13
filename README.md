@@ -76,6 +76,20 @@ The winner is the player with the **highest total points** at the end of the gam
 - **Circles Mode:** Instead of lines, circles are created. Fully functional.
 - **Ellipses Mode:** Instead of lines, ellipses are created. The overlap algorithm is currently resource-intensive and prone to errors. A new, more efficient algorithm is in development and will be added to the repo once completed.
 - **Triangles Mode:** 🚧 In development.
+- **NN Test Mode:** See **Neural Network Implementation** for further details.
+
+---
+## 🧠 Neural Network Implementation
+
+As part of my **Bachelor’s thesis**, I developed a multilayer perceptron (MLP) to approximate theoretical solutions for the Circles mode of Kartayati. This project demonstrates practical experience in machine learning, data preprocessing, and iterative development.
+
+- **Test Setup:** Limited Circles Mode with two players and four circles per game (two per player). Gameplay data was collected via a server and converted into a `.csv` dataset. **Only game data is collected; no personal user data is recorded.**
+- **Dataset:** 10,000 entries derived from 2,000 games (5 samples per game: 4 moves + start condition).
+- **MLP Training Code:** Written in Python. Training code and dataset are included in the repository under [mlp](https://github.com/pgs3238/Kartayati-showcase/tree/main/mlp). This represents the final implementation for the Bachelor’s thesis; newer versions exist but are not yet released.
+- **Scope & Limitations:** Training did not result in a fully integrated AI — the goal was to demonstrate feasibility. Outliers in game data occasionally produced predictions outside expected ranges during inverse transformations.
+- **Development Notes:** Code includes iterative edits and experimental changes, showing the evolution of the model throughout the project.
+
+This section showcases the application of **MLP design, training, and problem-solving** on real gameplay data, highlighting both technical ability and analytical thinking
 
 ---
 
